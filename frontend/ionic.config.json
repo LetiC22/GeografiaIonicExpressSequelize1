@@ -1,0 +1,7 @@
+{
+  "name": "geografia",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
